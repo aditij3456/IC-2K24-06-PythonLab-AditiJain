@@ -2,7 +2,7 @@
 # Python Lab — Lab 5: Dictionary
 
 **Subject:** Python Programming Lab  
-**Lab:** 4  
+**Lab:** 5  
 **Topic:** Python Dictionaries  
 **Author:** Aditi jain
 
