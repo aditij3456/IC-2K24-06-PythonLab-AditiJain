@@ -1,5 +1,5 @@
 
-# Python Lab — Lab 4: Dictionary
+# Python Lab — Lab 5: Dictionary
 
 **Subject:** Python Programming Lab  
 **Lab:** 4  
